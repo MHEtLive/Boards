@@ -19,7 +19,7 @@
           "checksum": "SHA-256:f83d9808a814817730d0517fad5351a9e7e8ffbf64ec1d3e741e7393b20f5aee",
           "size": "3482",
           "help": {
-            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+            "online": "https://learn.MHETLIVE.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
           },
           "boards": [
             {
