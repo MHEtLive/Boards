@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "MHETLIVE",
+      "maintainer": "SparkFun Electronics",
+      "websiteURL": "https://MHETLIVE.com",
+      "email": "TechSupport@MHETLIVE.com",
+      "help": {
+        "online": "https://learn.MHETLIVE.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+      },
+      "platforms": [
+        {
+          "name": "MHETLIVE AVR Boards",
+          "architecture": "avr",
+          "version": "1.1.5",
+          "category": "Contributed",
+          "url": "https://github.com/sparkfun/Arduino_Boards/raw/master/IDE_Board_Manager/sparkfunboards.1.1.5.tar.bz2",
+          "archiveFileName": "sparkfunboards.1.1.5.tar.bz2",
+          "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
+          "size": "1162215",
+          "help": {
+            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+          },
+          "boards": [
+            {
+              "name": "tiny88"
+            },
+            
+          ],
+          "toolsDependencies": []
+        },
+        
+      ],
+    }
+  ]
+}
