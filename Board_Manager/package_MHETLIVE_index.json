@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "SparkFun AVR Boards",
+          "name": "MH-ET LIVE Boards",
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
@@ -23,7 +23,7 @@
           },
           "boards": [
             {
-              "name": "RedBoard"
+              "name": "atTiny88"
             },
             {
               "name": "MaKey MaKey"
